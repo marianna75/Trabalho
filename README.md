@@ -1,1 +1,2 @@
-# Trabalho do primeiro semestre. Contem apenas html e css.    
+# Trabalho do primeiro semestre. Contem apenas html.
+
